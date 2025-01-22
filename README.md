@@ -7,5 +7,5 @@ This is a React-based project for displaying Instagram-like stories. Users can v
 - **Navigation:** Users can navigate between slides using previous and next buttons.
 - **Dynamic Progress Bar:** Progress bars show the elapsed time for each slide.
 - **Responsive Design:** The layout is responsive and works well on various devices.
-### Demo
-- **Live Link:**-vermasimpal/appversal-react-app
+
+## Live Link-vermasimpal/appversal-react-app
